@@ -3,8 +3,7 @@
  */
 
 const path = require('path');
-
-const constants = require('../constants');
+const constants = require('api-node-common/resources/constants');
 
 const root = path.normalize(`${__dirname}/../`);
 
